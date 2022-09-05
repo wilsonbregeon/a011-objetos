@@ -10,7 +10,7 @@ const pokemon1 = {
 };
 ```
 
-a) Crie uma cópia do objeto, acima, mantendo a estrutura, mas trocando **`nome`** por “Squirtle” e **`tipo`** por “Água”
+a) Crie uma cópia do objeto, acima, mantendo a estrutura, mas trocando **`nome`** por "“Squirtle”" e **`tipo`** por “Água”
 
 b) No objeto original, adicione mais uma propriedade, chamada `ataques`. Esta propriedade deve guardar um **array** de objetos com a estrutura abaixo. Inicie a propriedade como um array vazio, e crie o objeto abaixo utilizando `**push()**`
 
